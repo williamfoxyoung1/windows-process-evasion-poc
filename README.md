@@ -23,13 +23,6 @@ The demo shows:
 - JDK 17+
 - Command Prompt
 
-Verify Java:
-
-```cmd
-java -version
-javac -version
-```
-
 ## Build & Run
 
 Compile:
