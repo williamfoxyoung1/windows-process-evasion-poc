@@ -20,8 +20,7 @@ The demo shows:
 ## Requirements
 
 - Windows 10/11
-- JDK 17+
-- Command Prompt
+- Java JDK 17+
 
 ## Build & Run
 
